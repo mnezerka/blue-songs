@@ -1,0 +1,42 @@
+{title: Sedm mostů}
+
+{start_of_struct}
+Verse:
+/1/5m/4/1/
+/1/5m/4/1/
+/1/5m/4/1/
+/1/b7/4/1/
+
+Chorus:
+/4/4/1/1/
+/4/4/1/1/
+/4/4/1/1/
+/7b/4/1/1/
+{end_of_struct}
+
+[A]Snad sedm [Em]psů na [D]sedmé z [A]hvězd 
+je dál než [Em]mířím [D]já[A]
+někdy dí[Em]tě někdy [D]cesta [A]jen
+která sedm [G]mostů [D]má[A]
+
+Ať si byl či míníš někdy být
+či přicházíš mě zmást
+jen miluj mě tak jako já
+chci tě zlatou berlou pást
+
+{start_of_chorus}
+Někdy si [D]myslím že jsem [A]jednou z těch
+jejichž [D]skutky s někým [A]jdou
+jindy [D]běžím jak dítě a [A]zůstávám
+před [G]sedmou [D]překá[A]žkou [G][D][A]
+{end_of_chorus}
+
+Snad sedm psů na sedmé z hvězd
+jestli si vůbec vzpomínám
+někdy dítě někdy cesta jen
+která sedm mostů má
+
+Snad sedm psů na sedmé z hvězd
+jestli si vůbec vzpomínám
+někdy dítě někdy cesta jen
+která sedm mostů má

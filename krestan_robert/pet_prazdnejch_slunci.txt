@@ -1,0 +1,26 @@
+{title: Pět prázdných sluncí}
+{subtitle: Robert Křesťan}
+
+{start_of_struct}
+/1/1/1/1/
+/1/1/5/5/
+/2m/2m/1/1/
+/2m/4/1/1/
+{end_of_struct}
+
+{start_of_chorus}
+[G]Svítí pět prázdnejch sluncí, 
+nepadá z nich žádnej [D]stín. 
+Sví[Am]tí pět prázdnejch [G]sluncí, 
+dose[Am]dávaj [C]na můj [G]klín. 
+{end_of_chorus}
+
+Spálený jsou listy stromů, 
+spálená je tvoje tvář. 
+Spálený jsou cesty domů, 
+spálená je slunce zář. 
+ 
+Nečekám už žádný ráno, 
+nečekám už ničí smích. 
+Nečekám tvý tichý ano, 
+nečekám studenej sníh. 

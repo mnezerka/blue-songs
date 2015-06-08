@@ -1,0 +1,18 @@
+﻿{title: Wayfaring Stranger}
+
+[Dmi]I'm just a poor wayfaring stranger
+A-traveling [Gmi]through this world of [Dmi]woe
+[Dmi]And there's no sadness, toil or danger
+To that bright [Gmi]world to which I [Dmi]go
+
+{start_of_chorus}
+I'm going [B]there to meet my [F]Father
+I'm going [B]there no more to [A7]roam
+I'm just a-[Dmi]going over Jordan
+I'm just a-[Gmi]going over [Dmi]home
+{end_of_chorus}
+
+I know dark clouds will gather round me
+I know my way is rough and steep
+But beautios fields lie just before me
+Where soul's redeemed that vigils keep

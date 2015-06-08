@@ -1,0 +1,20 @@
+{title: Amazing Grace}
+
+{start_of_chorus}
+[G]Amazing grace, how [C]sweet the [G]sound
+That saved a wretch like [D]me
+I [G]once was lost, but [C]now I'm [G]found
+I was blind, but [D]now I [G]see
+{end_of_chorus}
+
+When we've been there ten thousand years
+Bright shining as the sun
+We've no less days to sing God's praise
+Than when we'd first begun
+
+'Twas grace that taught my heart to fear
+And grace my fear relieved
+How precious did that grace appear
+The hour I first believed
+
+

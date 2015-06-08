@@ -1,0 +1,25 @@
+{title: Dark Hollow}
+
+{sos}
+/1 /5 /1 /1 /
+/1 /4 /1 /1 /
+/1 /b7/4 /4 /
+/1 /5 /1 /1 /
+{eos}
+
+I'd rather be in some dark hollow
+Where the sun don't ever shine
+Than to be here alone knowing that you're gone
+It would cause me to lose my mind
+
+{start_of_chorus}
+So blow your whistle freight train
+Blow it far on down the track
+I'm going away, I'm leaving today
+I'm going but I ain't coming back
+{end_of_chorus}
+
+I'd rather be in some dark hollow
+Where the sun don't ever shine
+Than to be here some big city
+In a small room with you love on my mind

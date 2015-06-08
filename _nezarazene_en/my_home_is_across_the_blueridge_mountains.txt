@@ -1,0 +1,24 @@
+{title: My Home’s Across The Blueridge Mountains}
+
+{sos}
+/1 /1 /1 /1 /
+/5 /5 /1 /1 /
+/1 /1 /1 /1 /
+/5 /5 /1 /1 /
+{eos}
+
+{start_of_chorus}
+My home’s across the blueridge mountains
+My home’s across the blueridge mountains
+My home’s across the blueridge mountains
+And I never expect to see you anymore
+{end_of_chorus}
+
+How can I keep from cryin’ (x3)
+For I never expect to see you anymore
+
+I’m gonna leave here Monday morning (x3)
+Oh, I never expect to see you anymore
+
+Goodbye my little Nashville darlin’ (x3)
+Oh, I never expect to see you anymore

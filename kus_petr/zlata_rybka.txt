@@ -1,0 +1,40 @@
+﻿{title: Zlatá rybka}
+
+[E]Loďku máš, vesla [A]na ní jsou, tak [H]pluj [E]tam,
+kde stříbrně [A]zrcadlí se [H]proud.
+Rozhoď [E]síť a pak [A]celou noc tam [H]zů[E]staň,
+s ranním úsvitem [A]smíš ji [H]vytáh[E]nout.
+
+{start_of_chorus}
+Hladi[A]nou mokrá [E]síť zavl[H]ní,
+netu[A]šíš, ry[E]báři, co je v [H]ní.
+Oči [C#m]tvý osle[H]pí divná [E]zář,
+zlatou [A]rybku ve svý [H]síti [E]máš.
+{end_of_chorus}
+
+Rybku máš, co ti splní všechna přání,
+novou síť, novou střechu nad hlavou.
+Tak proč bát se chtít víc, tak co ti brání
+palác svůj mít pod modrou oblohou.
+
+{start_of_chorus}
+Hladinou tiše proud zavlní,
+ústa tvý, rybáři, oněmí.
+Oči tvý oslepí divná zář,
+zlatej palác jako dům svůj máš.
+{end_of_chorus}
+
+Palác máš, sám bloudíš třpytem sálů,
+rybka tvá ti splní celej snář.
+Ještě víc a byl bys králem králů,
+nad hlavou kdybys nosil svatou zář.
+
+{start_of_chorus}
+Hladinou mokrá síť zavlní,
+netušíš rybáři, zklamání.
+Oči tvý oslepí divná zář,
+Starou loď a starou síť zas máš.
+Starou loď a starou síť v rukou máš.
+{end_of_chorus}
+
+

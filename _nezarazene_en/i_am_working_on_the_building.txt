@@ -1,0 +1,32 @@
+{title: I’m Working On A Building}
+
+{subtitle: Bill Monroe}
+
+{sos}
+/1 /1 /1 /1/
+/1 /1 /5 /1/
+
+/1 /1 /1 /1/
+/1 /1 /5! /1 /1/
+/1 /1 /1 /1
+/1 /1 /5! /1 /1/
+{eos}
+
+Well, if I was a sinner I’d a tell you what I would do
+I would quit my sinnin’ and I’d work on a buildin’ too
+
+{start_of_chorus}
+I’m workin’ on a buildin’, I’m workin’ on a buildin’
+I’m workin’ on a buildin’ for my Lord, for my Lord
+It’s a Holy Ghost buildin’, it’s a holy ghost buildin’
+It’s a Holy Ghost buildin’ for my Lord, for my Lord
+{end_of_chorus}
+
+Well, if I was a gambler I tell you what I would do
+I would quit my gamblin’ and work on a buildin’ too
+
+Well, if I was a drunkard I tell you what I would do
+I would quit my drinkin’ and work on a buildin’ too
+
+Well, if I was a preacher I tell you what I would do
+I would go on preachin’ and I’d work on a buildin’ too

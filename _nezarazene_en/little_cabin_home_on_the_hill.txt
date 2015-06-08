@@ -1,0 +1,35 @@
+{title: Little Cabin Home On The Hill}
+
+{sos}
+/1 /1 /4 /1/
+/1 /1 /5 /5/
+/1 /1 /4 /1/
+/1 /5 /1 /1/
+
+/4 /4 /1 /1/
+/1 /1 /5 /5/
+/1 /1 /4 /1/
+/1 /5 /1 /1/
+{eos}
+
+Tonight I’m alone without you my dear
+It seems there’s a longing for you still
+All I have to do is sit alone and cry
+In our little cabin home on the hill
+
+{start_of_chorus}
+Oh, someone has taken you from me
+And left me here all alone
+Listen to the rain upon the window pane
+In our little cabin home on the hill
+{end_of_chorus}
+
+I hope you are happy tonight as you are
+But in my heart there’s a-longing for you still
+I just keep it there so I won’t be alone
+In our little cabin home on the hill
+
+Now when you have come to the end of the day
+And find there’s no more happiness for you
+Just let your thoughts turn back once more if you will
+To our little cabin home on the hill

@@ -1,0 +1,25 @@
+{title: Pozvánka}
+{subtitle: Karel Plíhal}
+{comment: capo 4}
+
+[Cmaj7]Umím hledat v [Fmaj7]jízdním řádu,
+[Cmaj7]ovládám všech [Fmaj7]sedm pádů
+a [Bmaj7]budeš se [Cmaj7]divit,
+ale [Fmaj7]oblékám se [Cmaj7]sám,[Fmaj7]
+
+mám [Cmaj7]od Párala [Fmaj7]všechny knížky,
+[Cmaj7]umím plivat [Fmaj7]na zem z výšky,
+[Bmaj7]a to už snad [Cmaj7]stačí,
+abys [Fmaj7]přišla někdy k [Cmaj7]nám.[Hmi7/5- E7]
+
+{start_of_chorus}
+[Ami7]Znám príma fór[D9/F#]: přijde [Gmi6]pán jednou k [A7]doktorovi,
+[Dmi]ten se ho [G]zeptá:"Co je [Cmaj7]vám?",[Hmi7/5- E7]
+[Ami7]pán smutně řek'[D9/F#] ..., jenže [Gmi6]dál ti to [A7]nedopovím,
+[Dmi]počkám, až [G]přijdeš jednou k [Cmaj7]nám.[Fmaj7 Cmaj7 Fmaj7]
+{end_of_chorus}
+
+Sám si koupím mléko v sáčku, hravě zapnu, vypnu pračku,
+vím, že vlevo je tady a vpravo zase tam,
+konverzuju celkem plynně, najdu svoje místo v kinně,
+a to už snad stačí, abys přišla někdy k nám. 

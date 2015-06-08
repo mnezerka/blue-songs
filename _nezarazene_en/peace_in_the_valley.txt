@@ -1,0 +1,19 @@
+{title: Peace in the Valley}
+{subtitle: recorded by Johnny Cash, written by Thomas A. Dorsey}
+
+I am tired and weary but I must toil on
+Till the Lord comes to call me away
+Well the morning's so bright and the lamb is the light
+And the night is as fair as the day
+
+{start_of_chorus}
+There will be peace in the valley for me some day
+There will be peace in the valley for me I pray
+No more sorrow and sadness or troubles will be
+There will be peace in the valley for  me
+{end_of_chorus}
+
+Where the bear will be gentle and the wolves will be tame
+And the lion shall lay down by the lamb
+And the beasts from the wild shall be led by a child
+And I'll be changed from this creature I  am

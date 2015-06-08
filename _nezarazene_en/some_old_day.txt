@@ -1,0 +1,31 @@
+{title: Some Old Day}
+{subtitle: Herb Pederson}
+
+{sos}
+/1 /1 /4 /1 /
+/1 /2 /5 /5 /
+/1 /1 /4 /1 /
+/1 /2 5 /1 /1 /
+
+/4 /4 /4 /1 /1 /
+/1 /2 /5 /5 /
+/1 /1 /4 /1 /
+/1 /2 5 /1 /1 /
+{eos}
+
+I’ve been working out in the rain tied to this dirty old ball and chain
+Oh dear mother I’ll come home some old day
+Some sweet day they’ll turn me loose from this dirty old calaboose
+Oh dear mother I’ll come home some old day
+
+{start_of_chorus}
+Some old day You’ll wait for me and pray
+Oh dear mother I’ll be home some old day
+Some sweet day they’ll turn me loose from this dirty old calaboose
+Oh dear mother I’ll come home some old day
+{end_of_chorus}
+
+Oh mother I’ve hurt you so and I’ve been cruel to you I know
+Oh dear mother I’ll come home some old day
+Tell my brothers and sister that they’re the best friends that I’ve had
+Oh dear mother I’ll come home some old day
