@@ -1,12 +1,5 @@
 {title: Two-Dollar Bill}
 
-{sos}
-/1 /1 /1 /1 /
-/1 /1 /4 /1 /
-/1 /1 /1 /1 /
-/1 /5 /1 /1 /
-{eos}
-
 Cloudy in the east and it looks like rain
 Looks like rain, lord, it looks like rain
 Cloudy in the east and it looks like rain

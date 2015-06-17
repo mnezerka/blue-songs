@@ -1,17 +1,5 @@
 {title: Little Cabin Home On The Hill}
 
-{sos}
-/1 /1 /4 /1/
-/1 /1 /5 /5/
-/1 /1 /4 /1/
-/1 /5 /1 /1/
-
-/4 /4 /1 /1/
-/1 /1 /5 /5/
-/1 /1 /4 /1/
-/1 /5 /1 /1/
-{eos}
-
 Tonight I’m alone without you my dear
 It seems there’s a longing for you still
 All I have to do is sit alone and cry

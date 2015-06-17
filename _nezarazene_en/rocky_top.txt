@@ -1,18 +1,5 @@
 {title: Rocky Top}
 
-{sos}
-/1 /1 /4 /1 /
-/6m/5 /1 /1 /
-/1 /1 /4 /1 /
-/6m/5 /1 /1 /
-
-/6m/6m/5 /5 /
-/b7/b7/4 /4 /
-/4 /4 /1 /1 /
-/1 /b7 /1 /1 /
-/1 /b7 /1 /1 /
-{eos}
-
 Wish that I was on old Rocky Top
 Down in the Tennessee hills
 Ain’t no smoggy smoke on Rocky Top

@@ -1,12 +1,5 @@
 {title: My Home’s Across The Blueridge Mountains}
 
-{sos}
-/1 /1 /1 /1 /
-/5 /5 /1 /1 /
-/1 /1 /1 /1 /
-/5 /5 /1 /1 /
-{eos}
-
 {start_of_chorus}
 My home’s across the blueridge mountains
 My home’s across the blueridge mountains

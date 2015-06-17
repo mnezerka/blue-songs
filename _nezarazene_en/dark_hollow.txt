@@ -1,12 +1,5 @@
 {title: Dark Hollow}
 
-{sos}
-/1 /5 /1 /1 /
-/1 /4 /1 /1 /
-/1 /b7/4 /4 /
-/1 /5 /1 /1 /
-{eos}
-
 I'd rather be in some dark hollow
 Where the sun don't ever shine
 Than to be here alone knowing that you're gone

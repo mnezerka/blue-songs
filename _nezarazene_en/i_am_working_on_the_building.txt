@@ -2,16 +2,6 @@
 
 {subtitle: Bill Monroe}
 
-{sos}
-/1 /1 /1 /1/
-/1 /1 /5 /1/
-
-/1 /1 /1 /1/
-/1 /1 /5! /1 /1/
-/1 /1 /1 /1
-/1 /1 /5! /1 /1/
-{eos}
-
 Well, if I was a sinner I’d a tell you what I would do
 I would quit my sinnin’ and I’d work on a buildin’ too
 
