@@ -1,17 +1,5 @@
 {title: Já písnička}
 
-{start_of_struct}
-Verse:
-/1m/1m/7 /7 /
-/5m/5m/1m/1m/
-
-Chorus:
-/3/3/7/7/
-/1m/1m/1m/5/
-/1m/1m/7/7/
-/5m/5m/1m/1m/
-{end_of_struct}
-
 [Dm]To já zrozená z nemoc[C]ných básníků
 Z tichých [Am]vět po nocích utka[Dm]ná
 To [Dm]já zrozená ne[C]ní mi do smíchu
@@ -34,5 +22,4 @@ To já písnička ležím tu před vámi
 Jenom tak spoutaná tolikrát
 To já písnička provdaná za pány
 Kteří pro lásku smí o mně hrát
-
 

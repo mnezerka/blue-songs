@@ -1,7 +1,7 @@
 {title: Cibola}
 {subtitle: Robert Křesťan}
 
-[D Hmi A G D]
+[D  Hmi  A  G  D]
 
 [D]Houpavý [G]proud [D]řekou [A]splý[D]vá
 [D]jak temně [G]čer[D]vená [A]hří[D]va
@@ -18,4 +18,4 @@ a v svítivou krev rozmělní ji
 jen ten křik v korunách zlatých měst
 ten ani dnes nepomíjí
 
-[D Hmi A G D]
+[D  Hmi  A  G  D]

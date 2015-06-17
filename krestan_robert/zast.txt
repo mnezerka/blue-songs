@@ -1,6 +1,9 @@
 {title: Zášť}
 {subtitle: Robert Křesťan a Druhá tráva}
 
+[F][F][Bb][Bb]
+[F][F][Bb][C]
+
 Když [F]nic mi [C7]běží k niče[Dm]mu a [Bb]hlava bolí [Gm]zášití[Am][C7][Dm]
 jistě k [C]jiné nebo k jinému [Bb]poznovu
 [F]Spěchá [C7]ve vší [Dm]skromnosti a [Bb]věčně šedém [Gm]plášti[Am][C7][Dm]

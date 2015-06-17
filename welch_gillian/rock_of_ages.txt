@@ -1,18 +1,12 @@
 {title: Rock Of Ages}
-{subtitle: Gillian Welch and David Rawlings}
-{subtitle: Hell Among the Yearlings (1998)}
-
-{sos}
-/1/1/1/b7/
-/1 b7/1/1 b7/1/
-{eos}
+{subtitle: Gillian Welch and David Rawlings, Hell Among the Yearlings (1998)}
 
 {start_of_chorus}
-Round round
-Wanna go round
-Wanna see the Rock of Ages
-When my body gives out
-Gonna read the final pages
+[D]Round round
+Wanna go [D]round
+Wanna see the Rock of [C]Ages
+[D]When [C]my [D]body gives out
+Gonna read the [C]final [D]pages
 {end_of_chorus}
 
 Oh my mother is gone
@@ -30,3 +24,4 @@ Moses heard a voice
 It called him up the mountain
 Forty days had set
 When Moses come a-shouting
+
