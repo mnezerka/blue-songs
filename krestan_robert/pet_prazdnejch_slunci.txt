@@ -1,12 +1,4 @@
 {title: Pět prázdných sluncí}
-{subtitle: Robert Křesťan}
-
-{start_of_struct}
-/1/1/1/1/
-/1/1/5/5/
-/2m/2m/1/1/
-/2m/4/1/1/
-{end_of_struct}
 
 {start_of_chorus}
 [G]Svítí pět prázdnejch sluncí, 
