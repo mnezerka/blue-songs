@@ -1,21 +1,19 @@
 {title: Na konci sil}
 {subtitle: Svaťa Kotas/Tomáš Vojtek}
 
-[A E Fism D]
-[H Fism E]
+[G D Em C]
+[Am Em D]
 
-[A]Probdělá až tam kde [E]není sil
-Do sebe [Hm]schoulená poslední z [F#m]dobrých víl
-Klopýtá a dech jí nestačí
-Utíká z domova po cestách z bodláčí
+[G]Probdělá až tam kde [D]není sil
+Do sebe [Am]schoulená poslední z [Em]dobrých víl[D]
+[G]Klopýtá a dech jí [D]nestačí
+Utíká [Am]z domova po cestách z [Em]bodláčí[D]
 
 {start_of_chorus}
-Vítej
-Nepospíchej
-Nabírej vodu, kterou můžeš pít
-Vítej
-Přej si a chtěj
-Všechno co můžeš mít a můžeš chtít mít a chtít
+[G]Ví[D]tej [Em]Nepospí[C]chej
+[Am]Nabírej vodu, kterou [Em]můžeš pít, můžeš [D]pít
+[G]Ví[D]tej [Em]Přej si a ch[C]těj
+[Am]Všechno co můžeš mít a [Em]můžeš chtít mít a [D]chtít
 {end_of_chorus}
 
 Usíná s nadějí bezhlesou

@@ -1,10 +1,10 @@
 {title: Povídání o štěstí}
 {subtitle: Svaťa Kotas/Tomáš Vojtek}
 
-Prostři mi sváteční stůl
-dej vínu ať tančí a zpívá
-vždyť poprvé za tisíc let
-tě poznám a možná i mám
+[G]Prostři mi [D]sváteční [Em]stůl
+dej [C]vínu ať [D]tančí a z[Bm]pívá
+vždyť [G]poprvé [D]za tisíc [Em]let
+tě [C]poznám a [D]možná i [G]mám
 
 Ať poví mi kde jenom spí
 má něha i ukrutná síla

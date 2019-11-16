@@ -1,32 +1,38 @@
 {title: Příboj}
 {subtitle: Svaťa Kotas/Tomáš Vojtek}
 
-Nepřemýšlím příliš, co se může stát
-Když slov temná tůň a řečí vodopád
-Je v mlčení jen příboj trapných bílých vln
-Je za pět minut půl a já opouštím dům
+[G]Nepřemýšlím příliš, co se [D]může [C]stát
+Když [Am]slov temná tůň a [D]řečí vodopád
+[G]Je v mlčení jen příboj trapných [D]bílých [C]vln
+Je [Am]za pět minut půl a [D]já opouštím dům
 
-Jak voják který všechny svoje války vzdal
-Zbraně poztrácel a slavné řády vzal
-Do první krčmy kde se může vínem zpít
-Pro tíhu slavných dnů po vítězství
+{soc}
+[Em]Jak voják který všechny svoje [Bm]války vzdal
+[C]Zbraně poztrácel a slavné [D]řády vzal
+Do [Em]první krčmy kde se může [Bm]vínem zpít
+Pro [C]tíhu slavných dnů po vítězs[D]tví
+{eoc}
 
 Nepřemýšlím příliš, jestli mír či boj
 Je řinkot ostrých slov o plátovanou zbroj
 Věčné víry v bázeň, která může znít
 Ze smrtelných vět, po kterých lze žít
 
+{soc}
 Jen v místech, která někde v tichá stale spí
 Za mincovnou snů a paktů přátelství
 Svíčka, která v noci svítí z temných blat
 Dává víru v teplé stavení
+{eoc}
 
 Za ty ruce v klíně za ten vzácný dar
 Slunce do tváří a očím tisíc jar
 A tucty růží na hrob věčných básníků
 Kroků, které líně opustily dům
 
+{soc}
 Jak malíř který všechny svoje plátna sňal
 Dům zanechal psům a světem bloudil sám
 Teď kreslí barvou rozpitou do chladných zdí
 Nechápavých cizích pohledů
+{eoc}

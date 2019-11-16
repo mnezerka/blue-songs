@@ -1,16 +1,16 @@
 {title: Pod hradbami}
 {subtitle: Svaťa Kotas/Tomáš Vojtek}
 
-Někdo v noci zapálil můj hrad
-Dívej jak oheň sžírá jabloňový sad
-Prý za chvíli vytáhnou mě ven
-A temné síly mi takhle zkazí den
+[Bm]Někdo v noci zapálil můj [A]hrad
+Dívej jak [Bm]oheň sžírá jabloňový [A]sad
+[Bm]Prý za chvíli vytáhnou mě [A]ven
+A temné [Bm]síly mi takhle zkazí [A]den
 
 {start_of_chorus}
-Možná bych sám se mohl začít bát
-Vždyť tma už vtéká jak řeka do zahrad
-Možná bych rád to mohl nechat být
-Usnut a spát a chtít se nespálit
+Možná bych [Em]sám se mohl začít [B]bát
+Vždyť tma už [G]vtéká jak řeka do zah[A]rad
+Možná bych [Em]rád to mohl nechat [B]být
+Usnut a [G]spát a chtít se nespá[A]lit
 {end_of_chorus}
 
 Proč jsem s Tebou byla tolik let
