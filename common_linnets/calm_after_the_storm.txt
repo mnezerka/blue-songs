@@ -1,12 +1,6 @@
 {title: Calm After The Storm}
 {subtitle: Common Limmets}
 
-[Intro]
-
-G
-
-[Verse]
-
 [G]Driving in a fast lane
 Counting [Em]mile marker signs
 [C]The empty seat beside me
@@ -16,15 +10,11 @@ Was never [Em]something I pursued
 [C]I can't keep on chasing
 [G]What I can be for you
 
-{boc}
-
+{soc}
 [G]Ooooh skies are black[Em] and blue
 Thinking ab[C]out you
 Here in the[G] calm after the storm
 {eoc}
-
-
-[Verse]
 
 Tears on a highway
 Water in my eyes
@@ -35,28 +25,19 @@ But I don't wanna lie
 I just wanna know if staying
 Is better than goodbye
 
-[Chorus]
-
+{soc}
 [G]Ooooh skies are black [Em]and blue
 Thinking ab[C]out you
 Here in the[G] calm after the storm
 [G]Ooooh after all that we[Em]'ve been through
 There ain't not[C]hin' new
 Here in the[G] calm after the storm
-
-
-[Solo]
-
-[G Em C G]
-
-[Bridge]
+{eoc}
 
 [G]Maybe I can find you
 [Em]Down this broken line
 [C]Maybe you can find me
 [G]I guess we'll know in time
-
-[Chorus]
 
 [G]Ooooh skies are black [Em]and blue
 Thinking ab[C}out you
