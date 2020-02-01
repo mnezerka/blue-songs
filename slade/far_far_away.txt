@@ -1,10 +1,10 @@
 {title: Far, far away}
 {subtitle: Slade}
 
-I've seen the yellow lights go down the Mississippi
-I've seen the bridges of the world and they're for real
-I've had a red light of the wrist without me even gettin' kissed
-It still seems so unreal
+[Bm]I've seen the yellow lights go [A]down the Missi[Bm]ssippi
+I've seen the bridges of the [A]world and they're for [Bm]real
+I've had a [G]red light of the [A]wrist without me [D]even gettin' [Bm]kissed
+It [G]still seems so [A]unreal
 
 I've seen the morning in the mountains of Alaska
 I've seen the sunset in the east and in the west
@@ -13,12 +13,12 @@ And passed the hound dog singer's home
 It still seems for the best
 
 {start_of_chorus}
-And I'm far far away
-with my head up in the clouds
-And I'm far far away
-with my feet down in the crowds
-Lettin' loose around the world
-But the call of home is loud still as loud
+And I'm [D]far [A]far a[Bm]way
+with my [G]head up in the [A]clouds
+And I'm [D]far [A]far a[Bm]way
+with my [G]feet down in the [A]crowds
+Lettin' [D]loose a[A]round the [A]world
+But the [G]call of home is [F#7]loud still as [Bm]loud
 {end_of_chorus}
 
 I've seen the Paris lights from high upon Montmartre
