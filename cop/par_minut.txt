@@ -1,7 +1,7 @@
 {title: Pár minut}
 {artist: Cop}
 
-Předehra: D  D/C  D/H  D/A
+Předehra: D  D/C  D/H  D/A G
 
 {soc}
 R1: [G]Tvých pár [D]minut si [Am]připíchnout jak [C]kytku na ka[G]bát,

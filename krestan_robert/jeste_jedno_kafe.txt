@@ -1,4 +1,5 @@
 {title: Ještě jedno kafe}
+{artist: Robert Křesťan, Bob Dylan}
 
 [Em]Máš sladkej dech a oči
 kterým [D]patří svatozář
