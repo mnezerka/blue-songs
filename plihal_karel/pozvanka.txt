@@ -10,16 +10,16 @@ ale [Fmaj7]oblékám se [Cmaj7]sám,[Fmaj7]
 mám [Cmaj7]od Párala [Fmaj7]všechny knížky,
 [Cmaj7]umím plivat [Fmaj7]na zem z výšky,
 [Bmaj7]a to už snad [Cmaj7]stačí,
-abys [Fmaj7]přišla někdy k [Cmaj7]nám.[Hmi7/5- E7]
+abys [Fmaj7]přišla někdy k [Cmaj7]nám.[Hm7/5- E7]
 
 {start_of_chorus}
-[Ami7]Znám príma fór[D9/F#]: přijde [Gmi6]pán jednou k [A7]doktorovi,
-[Dmi]ten se ho [G]zeptá:"Co je [Cmaj7]vám?",[Hmi7/5- E7]
-[Ami7]pán smutně řek'[D9/F#] ..., jenže [Gmi6]dál ti to [A7]nedopovím,
-[Dmi]počkám, až [G]přijdeš jednou k [Cmaj7]nám.[Fmaj7 Cmaj7 Fmaj7]
+[Am7]Znám príma fór[D9/F#]: přijde [Gm6]pán jednou k [A7]doktorovi,
+[Dm]ten se ho [G]zeptá:"Co je [Cmaj7]vám?",[Hm7/5- E7]
+[Am7]pán smutně řek'[D9/F#] ..., jenže [Gm6]dál ti to [A7]nedopovím,
+[Dm]počkám, až [G]přijdeš jednou k [Cmaj7]nám.[Fmaj7 Cmaj7 Fmaj7]
 {end_of_chorus}
 
 Sám si koupím mléko v sáčku, hravě zapnu, vypnu pračku,
 vím, že vlevo je tady a vpravo zase tam,
-konverzuju celkem plynně, najdu svoje místo v kinně,
+konverzuju celkem plynně, najdu svoje místo v kině,
 a to už snad stačí, abys přišla někdy k nám. 

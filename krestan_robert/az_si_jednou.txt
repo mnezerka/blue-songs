@@ -1,4 +1,5 @@
 ﻿{title: Až si jednou}
+{artist: Robert Křesťan}
 
 [C]Až mi čas řekne stůj
 až si [F]jednou sundám [C]boty

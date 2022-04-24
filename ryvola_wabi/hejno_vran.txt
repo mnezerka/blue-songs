@@ -1,0 +1,25 @@
+{title: Hejno vran}
+{artist: Wabi Ryvola}
+
+[F B F]Intro
+
+[F]Když nad pasekou vzlétne [B]hejno vran,
+[Bm]hejno vran, [F]hejno vran,
+je léta pel už dávno v[B]yprodán,
+p[C7]odzim se hlásí chladem j[F]asných rán,
+v tom ránu prochází se [B]sám a sám,
+kd[C7]o městu dávno sbohem d[F]al.[B F]
+
+{start_of_chorus}
+[F]A tak se touláš trávou sp[A7]álenou,
+nevíš, jak rozloučit se s l[Dm]étem,
+díváš se na krajinu vzd[B]álenou,
+kt[C7]erés' dal celý život sv[F]ůj.[B F]
+{end_of_chorus}
+
+Nad hlavou zakrouží ti hejno vran,
+hejno vran, hejno vran,
+a bílých hvězd je všude oceán,
+přece si nepostavíš pod ně stan,
+budeš spát pod širákem, jak tě znám,
+i když už podzim přichází.

@@ -1,4 +1,5 @@
 ﻿{title: Nadějí}
+{artist: Robert Křesťan}
 
 [Gm]Když spí dva odsouze[C]ní[B]
 [Gm]v lukách u hořících [C]klád

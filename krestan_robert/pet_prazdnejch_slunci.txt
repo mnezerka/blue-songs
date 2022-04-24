@@ -1,4 +1,5 @@
 {title: Pět prázdných sluncí}
+{artist: Robert Křesťan}
 
 {start_of_chorus}
 [G]Svítí pět prázdnejch sluncí, 
