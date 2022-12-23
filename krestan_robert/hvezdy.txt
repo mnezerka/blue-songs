@@ -10,7 +10,7 @@ po [G]ran[D]ách [G]pohl[D]aď mi [A]pěst
 
 {start_of_chorus}
 [A]Nikdy bych nebyl tak hroší a psí,
-[Hmi]kdyby mi [Emi]ne[Hmi]bylo zl[A]e
+[Hmi]kdyby mi [Emi]ne[Hmi]bylo z[A]le
 jak [A]pěšímu pluku když za vesnicí
 [D]počítá [G]do [D]ne[G]dě[A]le
 {end_of_chorus}
@@ -20,15 +20,13 @@ a to snad má lásko, i teď
 kdy s holými zády už tisíce let
 čekáme na odpověď
 
-{start_of_chorus}
-Nikdy bych nebyl tak hroší a psí,
-kdyby mi nebylo zle
-jak pěšímu pluku když za vesnicí
-počítá do neděle
-{end_of_chorus}
+Ref
+
+Solo
+
+Ref
 
 [D]Skoro se [A]zdá, že [G]promě[A]níš [D]svět
 
-[G D   G D   G D   A   D]
-
+[G D   G D  A D]
 

@@ -1,10 +1,9 @@
 {title: Spirála}
 
 [G]Hlubokou [D]spirálou, [Em]tichou a [D]pomalou
-[C]procházím s [G]jemným [D]udivením.
-
-Na něčích perutích, kosích či labutích
-škoda, že noc končí, probuzením.
+[C]procházím s jem[G]ným udive[D]ním.
+[G]Na něčích [D]perutích, [Em]kosích či [D]labutích
+[C]škoda, že noc končí, [D]probuze[G]ním.
 
 {start_of_chorus}
 [D]Je to smrt [G]zaživa, [D]kouzelná, [G]mučivá
@@ -15,6 +14,6 @@ Na něčích perutích, kosích či labutích
 
 Potmě a v prostoru, cítím žhnout  auru
 třeba mne ochrání, před zlobou v nás
-
 Přes zlobu, přes závist, přes kutou nenávist
 překročím Rubikon, v nejvyšší čas
+
