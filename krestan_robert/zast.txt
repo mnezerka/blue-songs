@@ -1,15 +1,14 @@
 {title: Zášť}
-{subtitle: Robert Křesťan a Druhá tráva}
+{artist: Robert Křesťan a Druhá tráva}
 
-[F][F][Bb][Bb]
-[F][F][Bb][C]
+[F Bb F Bb F Bb F Bb]
 
-Když [F]nic mi [C7]běží k niče[Dm]mu a [Bb]hlava bolí [Gm]zášití[Am][C7][Dm]
-jistě k [C]jiné nebo k jinému [Bb]poznovu
-[F]Spěchá [C7]ve vší [Dm]skromnosti a [Bb]věčně šedém [Gm]plášti[Am][C7][Dm]
-Jedna [C]ženská s taškou radostí [Bb]k domovu
+Když [F]nic mi [C]běží k niče[Dm]mu a [Bb]hlava bolí [Gm]zášití[Am][C][Dm]
+jistě k [C]jiné nebo k jinému [Bb]poznovu[C]
+[F]Spěchá [C]ve vší [Dm]skromnosti a [Bb]věčně šedém [Gm]plášti[Am][C][Dm]
+Jedna [C]ženská s taškou radostí [Bb]k domovu[C]
 
-[C Dm C F F B Am Dm C F C Dm C]
+[Dm C F Bb Am Dm C F C Dm C]
 
 {start_of_chorus}
 [F]Možná je to ta kterou mám [B]rád
@@ -21,10 +20,16 @@ a někdy po ní touží jako po soše,
 má v sobě sílu levhartic a přízrak písní z Lesbu
 A každou ranou více víc rozkoše
 
+Ref.
+
+[Dm C F Bb Am Dm C F C Dm C]
+
 Jak skoupá je má nenávist, když nedovedu střílet,
 jak skoupá je má hrdost, někdy na mezi,
 místo jezev na duši, jen fleky z rybích filet
 A místo čáry života hovězí
+
+[Dm C F Bb Am Dm C F C Dm C]
 
 {start_of_chorus}
 Možná je to tím že to mám rád
