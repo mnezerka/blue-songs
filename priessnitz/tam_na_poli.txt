@@ -1,10 +1,14 @@
 {title: Tam na poli}
 {artist: Priessnitz}
 
+2x Em C G D/F#
+
 [Em]Tam na poli[C]
 [G]stojí starý [D/F#]strom
 [Em]když na něj vyle[C]zeš
 [G]uvidíš až [D/F#]za obzor
+
+2x Em C G D/F#
 
 Tam za poli
 je černý les
@@ -16,7 +20,7 @@ ať ho vezme děs
 [G]šeptalas mi [D]utíkej
 [Em]tak jako my tenk[C]rát
 [G]utíkej a [D]neotáčej se
-[C]Tam ve světě 
+[C]Tam ve světě
 [D]dávno ztraceni[Em]
 ty jsi šla s ním
 a já s ní
@@ -30,11 +34,17 @@ když vejdeš
 už nevrátíš se
 
 {soc}
-Ref: ...
+Tak jako my tenkrát ...
+Tam ve světě dávno ...
 ...jsme se nenašli
+Tam ve světě dávno ...
+...jsme se hledali
 {eoc}
+
+Mezihra: 4x Em C Em/B D/F# G
 
 Tam na poli
 stojí starý strom
 když na něj vylezeš
 uvidíš až za obzor
+
