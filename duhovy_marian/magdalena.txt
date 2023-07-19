@@ -1,17 +1,18 @@
 {title: Magdaléna}
 
-[E]Do copů ti jemně mží
-Kněží [B]vycházejí z chrámů
-Nepo[C#m]skvrň svá slova l[B]ží 
-Mag[A]daléno …
-Z křivek tvých jde trochu strach
-Své tělo [B]v Boží obrátíš
-Do očí [C#m]vítr žene [B]prach
-Mag[A]daléno, Magdalé[E]no
+[D]Do copů ti jemně mží
+Kněží [A]vycházejí z chrámů
+Nepo[Bm]skvrň svá slova l[A]ží 
+Mag[G]daléno
+
+Z křivek [D]tvých jde trochu strach
+Své tělo [A]v Boží obrátíš
+Do očí [Bm]vítr žene [A]prach
+Mag[G]daléno, Magdalé[D]no
 
 {start_of_chorus}
-Magdalé[B]no, Magdalé[C#m B A]no
-Víra a [E]Láska – to je lék, [B]Magdalé[E]no...
+Magdalé[A]no, Magdalé[Bm A G]no
+Víra a [D]Láska – to je lék, [A]Magdalé[D]no...
 {end_of_chorus}
 
 Pro vlasy tvé já službu znám
@@ -24,7 +25,6 @@ Hrdlo se stáhlo, srdce - spíš... ?
 Šeptem všem verným vyprávíš
 Magdaléno, Magdaléno
 
-Magdalé[B]no, Magdalé[Cm# B A]no,
-Brány všech [E]srdcí otvírám, [B]Magdalé[Cm# B A]no,
-Brány všech [E]srdcí otvírám, [B]Magdalé[E]no
-
+Magdalé[B]no, Magdalé[Bm A G]no,
+Brány všech [D]srdcí otvírám, [A]Magdalé[Bm A G]no,
+Brány všech [D]srdcí otvírám, [A]Magdalé[D]no
