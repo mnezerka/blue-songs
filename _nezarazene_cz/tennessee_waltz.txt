@@ -1,0 +1,18 @@
+{title: Tennessee Waltz}
+{artist: Cop}
+
+
+[C]Já bych tančil, pojď, má milá,
+hrajou [C7]Tennessee [F]Waltz,
+volnej [C]jsem a [Am]hvězdy už s[D]pí,[G]
+a jen [C]prstem kejvneš, lásko,
+a [C7]já s tebou t[F]ančím,
+mám [C]blízko tvý s[G]rdce, vždyť v[C]íš.
+
+{start_of_chorus}
+Nezapo[C]mínej, když [E7]hrál se [F]Tennessee W[G]altz,
+pouze ty víš, jak [Am]je to se [D]mnou[G],
+naše l[C]áska, moje milá, ta [C7]přišla s tou n[F]ocí
+1. jak p[C]řekrásnej [G]Tennessee [C]Waltz
+2. jak p[C]řekrásnej [G]Tennessee [F]Waltz[C].
+{end_of_chorus}
