@@ -1,11 +1,11 @@
 {title: Předpověď počasí}
 {artist: Miki Ryvola}
 
-[Dm]Slyš[C]ím kapky [Dm]v listí hrát
-[Dm]tepl[F]ej vítr [Dm]začal vát
-[F]je to [B]jako loni v létě
-[F]samotne[A7]j na celým světě
-[Dm]viděl [C]jsem [Dm]tě na [G]pe[B]rónu stát
+Slyš[Am]ím [G]kapky v listí [Am]hrát
+teplej v[C]ítr začal v[Am]át
+je to [C]jako loni v l[F]étě
+samotne[C]j na celým s[E7]větě
+viděl js[Am]em tě n[G]a perónu st[Am]át[D F]
 
 Padaj saze na vlasy
 než nám odjezd ohlásí
@@ -14,17 +14,18 @@ z lógru na dně hrnku hádat
 naší nový lásky počasí
 
 {start_of_chorus}
-[F]Tvoje oč[Cm]i medový
-[F]lásky stav [Cm]nám předpoví
-[Dm]Moje pro[G]měnlivá ženo
-[C]nad lás[B]kou je zataženo
-[A7]v oč[Dm]ích [C]máš pře[Dm]háňky [G]de[B]šťový
-[Dm]Do [C]půl roku [Dm]do rána
-[Dm]láska [F]je už [Dm]dohraná
-[F]teplý [B]léto dávno není
-[F]jen zrz[A7]noucí mrholení
-[Dm]předpo[C]věď za[Dm]s by[G]la [B]vylhaná
+[C]Tvoje oči medo[Gm]vý
+[C]lásky stav nám předpo[Gm]ví
+Moje p[Am]roměnlivá ž[D]eno
+nad lás[G]kou je zata[F]ženo
+v [E7]očích [Am]máš pře[G]háňky dešťo[Am]vý[D F Am D F]
 {end_of_chorus}
+
+Do půl roku, do rána
+láska je už dohraná,
+léto teplý dávno není,
+jen mrznoucí mrholení,
+předpověď zas byla vylhaná.
 
 Jízdní řád se vymění
 vlaky mají zpoždění
