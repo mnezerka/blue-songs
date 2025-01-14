@@ -1,4 +1,6 @@
-﻿{title: Devil In Disguise}
+{title: Devil In Disguise}
+{author: Chris Hillman, Gram Parsons}
+{album: The Bluegrass Album Vol. 3}
 
 [G][F][C][G]
 

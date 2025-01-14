@@ -1,15 +1,15 @@
-﻿{title: Zlatá rybka}
+{title: Zlatá rybka}
 
-[E]Loďku máš, vesla [A]na ní jsou, tak [H]pluj [E]tam,
-kde stříbrně [A]zrcadlí se [H]proud.
-Rozhoď [E]síť a pak [A]celou noc tam [H]zů[E]staň,
-s ranním úsvitem [A]smíš ji [H]vytáh[E]nout.
+[D]Loďku máš, vesla [G]na ní jsou, tak [A]pluj [D]tam,
+kde stříbrně [G]zrcadlí se [A]proud.
+Rozhoď [D]síť a pak [G]celou noc tam [A]zů[D]staň,
+s ranním úsvitem [G]smíš ji [A]vytáh[D]nout.
 
 {start_of_chorus}
-Hladi[A]nou mokrá [E]síť zavl[H]ní,
-netu[A]šíš, ry[E]báři, co je v [H]ní.
-Oči [C#m]tvý osle[H]pí divná [E]zář,
-zlatou [A]rybku ve svý [H]síti [E]máš.
+Hladi[G]nou mokrá [D]síť zavl[A]ní,
+netu[G]šíš, ry[D]báři, co je v [A]ní.
+Oči [Bm]tvý osle[A]pí divná [D]zář,
+zlatou [G]rybku ve svý [A]síti [D]máš.
 {end_of_chorus}
 
 Rybku máš, co ti splní všechna přání,

@@ -1,4 +1,4 @@
-﻿{title: Wayfaring Stranger}
+{title: Wayfaring Stranger}
 
 [Dmi]I'm just a poor wayfaring stranger
 A-traveling [Gmi]through this world of [Dmi]woe
