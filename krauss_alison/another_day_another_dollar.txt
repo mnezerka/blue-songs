@@ -1,16 +1,17 @@
-﻿{title: Another Day, Another Dollar} 
+{title: Another Day, Another Dollar}
+{artist: Alison Krauss & Union Station}
 
 {start_of_chorus}
-Another [B]day, another dollar
-That's what I'm working for to[E]day[B]
-Another [B]day, another dollar
-Sure can't [F#]buy my blues a[B]way[E][B]
+Another [G]day, another dollar
+That's what I'm working for to[C]day[G]
+Another day, another dollar
+Sure can't [D]buy my blues a[G]way[C][G]
 {end_of_chorus}
 
-I'm just trying to make a [B]living
-working jobs that I en[E]joy[B]
+I'm just trying to make a living
+working jobs that I enjoy
 But it ain't easy finding something
-For this [F#]lonesome hearted [B]boy[E][B]
+For this lonesome hearted boy
 
 You know my life is like a highway
 Just too many roads to take
