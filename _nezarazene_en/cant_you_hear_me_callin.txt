@@ -1,15 +1,15 @@
-﻿{title: Can't You Hear Me Calling}
+{title: Can't You Hear Me Calling}
 
-[C]The days are dark, the nights are lonely
-Since you [F]left me all [C]alone
-I've worried [F]so my little [C]darling
-I've loved you [G]so even though you have [C]gone
+[G]The days are dark, the nights are lonely
+Since you [C]left me all [G]alone
+I've worried [C]so my little [G]darling
+I've loved you [C]so [D]even though you have [G]gone
 
 {start_of_chorus}
-Sweetheart of [C]mine, can't you hear me callin'
-A million [F]times I loved you [C]best
-I mistreated [F]you, lord, and I'm [C]sorry
-Come back to [G]me is my [C]request
+[G]Sweetheart of mine, can't you hear me callin'
+A million [C]times I loved you [G]best
+I mistreated [C]you, lord, and I'm [G]sorry
+Come back to [C]me [D]is my re[G]quest
 {end_of_chorus}
 
 I remember, dear, the night we parted
