@@ -1,8 +1,8 @@
-﻿{title: Señore}
+{title: Señore}
 
-[Dm]Señor, Se[Am]ñor, víte [B]vůbec, kam to [F]jedem?
+[Dm]Señor, Se[Am]ñor, víte [Bb]vůbec, kam to [F]jedem?
 Je to Arizona, nebo Arma[Dm]geddon?
-Vždyť [C]tady jsem už byl, to je snad [B]fór.
+Vždyť [C]tady jsem už byl, to je snad [Bb]fór.
 Mám [Gm]pravdu, nebo magořím, Se[Dm]ñor?
 
 Señor, Señor, nevíte, prosím, kde se skrývá?
@@ -12,9 +12,9 @@ A bude nám tu líp než tam, Señor?
 
 {start_of_chorus}
 Do [F]korby bušil vítr, až se [Am]třásla mříž,
-a [B]na krku jí visel liti[Dm]novej kříž,
+a [Bb]na krku jí visel liti[Dm]novej kříž,
 pořád [F]vidím prázdný náměstí a [Am]ji ten den,
-jak mě [B]objímá a šeptá mi: „Ne[Dm]zapomeň.“
+jak mě [Bb]objímá a šeptá mi: „Ne[Dm]zapomeň.“
 {end_of_chorus}
 
 Señor, Señor, už zas vidím ten modrobílej auťák
@@ -22,8 +22,8 @@ a cejtím ocas draka;
 tohle napětí mě ničí jako mor.
 Kdo mi tady pomůže, Señor?
 
-[Dm  Am  B  F  Dm]
-[C  B  Gm  Dm]
+[Dm  Am  Bb  F  Dm]
+[C  Bb  Gm  Dm]
 
 {start_of_chorus}
 Klečel jsem tam nahej jako idiot,
