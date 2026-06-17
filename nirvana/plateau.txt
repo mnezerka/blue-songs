@@ -1,5 +1,5 @@
 {title: Plateau}
-{subtitile: originally by The Meat Puppets}
+{artist: originally by The Meat Puppets}
 
 Many a hand has scaled the grand old face of the plateau
 Some belong to strangers and some to folks you know

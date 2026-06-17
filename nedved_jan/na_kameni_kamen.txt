@@ -1,4 +1,3 @@
-
 {title: Na kameni kámen}
 {artist: Jan Nedvěd}
 

@@ -10,7 +10,7 @@ ustel mi [G]sítí z říčních [D]řas,
 prostři mi [Em]plátnem, ustel [C]sítí,
 požehnej [G]sluncem [D]hodným z [G]nás.
 
-{begin_of_chorus}
+{start_of_chorus}
 Ty, kdož jsi [Em]dal mým [Am]statkům [D]účel,
 mým skutkům [C]řád, mým krokům [D]směr,
 mým lodím [Em]vítr, [D]ústům [C]dech,
@@ -22,7 +22,7 @@ ustel mi [G]sítí z říčních [D]řas,
 prostři mi [Em]plátnem, ustel [C]sítí,
 požehnej [G]sluncem [D]hodným z [C]nás.
 
-{begin_of_chorus}
+{start_of_chorus}
 Ty, kdož se [Em]scházíš s [Am]paní [D]pláště,
 kdož jsi [C]dal dlouhým nocím [D]práh,
 mým očím [Em]žízeň, [D]prstům [C]cit

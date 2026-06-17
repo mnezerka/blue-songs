@@ -1,4 +1,4 @@
-﻿{title: Drnová chajda}
+{title: Drnová chajda}
 
 Já tu [D]na svým dílci, [D7]celkem vzato, [G]bídnej život [D]mám,
 a tak vypadám dost [Hm]schlíple, pámbu [Em]ví, [A7]
@@ -16,10 +16,9 @@ Když jsem z domova tam na východě vyšel zbohatnout,
 zkusit, jestli potkám štěstí - kdopak ví,
 sotva napadlo mě tenkrát, že kdy potkám tenhle kout
 na mým dílci v starý chajdě drnový.
- 
+
 Ale rád bych, aby se tu našla dívka laskavá,
 jejíž soucit mě z tý bryndy vyloví,
 jak bych žehnal tomu andělu, že život uznává
 i na mým dílci v starý chajdě drnový.
-
 
