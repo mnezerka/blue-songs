@@ -1,10 +1,10 @@
 {title: Dumb}
 
-[E]I'm [A]not like th[G]em, but [C]I can pre[E]tend
-[A]The sun is go[G]ne, but [C]I have a [E]light
-[A]The day is do[G]ne, but [C]I'm having [E]fun
-[A]I think I'm du[G]mb, or [C]maybe just [E]happy
-[G]Think I'm just [E]happy (x3)
+[E] [A]I'm not like th[G]em, but [C]I can pretend
+[E] [A]The sun is go[G]ne, but [C]I have a light
+[E] [A]The day is do[G]ne, but [C]I'm having fun
+[E] [A]I think I'm du[G]mb, or [C]maybe just happ[E]
+[G]Think I'm just happy (x3)[E]
 
 My heart is broke, but I have some glue
 Help me inhale, and mend it with you
@@ -12,10 +12,10 @@ We'll float around, and hang out on clouds
 Then we'll come down, and have a hangover ...
 Have a hangover (x3)
 
-[B7]Skin the [C]sun Fall asleep
-[B7]Wish away [C]The soul is cheap
-[B7]Lesson learned [C]Wish me luck
-[B7]Soothe the burn [C]Wake me up
+[B]Skin the [C]sun Fall asleep
+[B]Wish away [C]The soul is cheap
+[B]Lesson learned [C]Wish me luck
+[B]Soothe the burn [C]Wake me up
 
 I'm not like them, but I can pretend
 The sun is gone, but I have a light
